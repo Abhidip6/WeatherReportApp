@@ -54,7 +54,7 @@ Click the Run button ▶️ in Android Studio.
 
 Name: Abhidip Saha
 
-GitHub: [Your GitHub Profile](https://github.com/Abhidip6)
+GitHub: (https://github.com/Abhidip6)
 
 
 
